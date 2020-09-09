@@ -13,7 +13,7 @@ Expanding on the hardware wallet story, I'll also go into multisig, what it is, 
 ## 4. Bitcoin Privacy  
 (Re)claiming your privacy on the blockchain can be hard, and there are quite a few twitter threads that go into the virtues of the different options. Mainly wasabi vs samourai is a hot topic. I'll go into samourai and wasabi, as well as joinmarket, and list the things you absolutely should and shouldn't do to avoid fucking up your coinjoins.
 
-## 5. Lightning (advanced)
-I'll go over lightning very quickly in the beginners' guide, but there's a lot more to it.
+## 5. Lightning, side-chains & layer 2 (advanced)
+I'll go over lightning very quickly in the beginners' guide, but there's a lot more to layer 2 and other side-chains that warrant discussing.
 
 ## Whatever else I can come up with
